@@ -80,8 +80,3 @@ Use `python model/run.py --help` or `python ranking/run.py --help` to inspect av
 
 Both entry points support `--resume` for checkpoint loading.
 
-## Data and validation
-
-The repository preserves the supplied data files and splits. Python cache files and macOS metadata are excluded. Source files have been checked for Python syntax; end-to-end training and numerical reproduction have not been verified for this upload.
-
-No software or dataset license is assigned in this repository. Dataset usage remains subject to the original providers' terms. Publication details and a citation entry can be added when finalized.
